@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 10vg;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-content: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ebabd7,#ffffff);
+}
+
+input {
+    background: #ffc8ee;
+}
+
+.box {
+    margin: 10vh;
+    
+}
+
+.box h2 {
+    margin-bottom: auto;
+}
+
+button {
+
+}
+
+input, button {
+
+}
+
+button:hover {
+    background: #ffc8ee;
+}
